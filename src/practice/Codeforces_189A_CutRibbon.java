@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Coforces_189A_CutRibbon {
+public class Codeforces_189A_CutRibbon {
 	static int n;
 	static int a;
 	static int b;
